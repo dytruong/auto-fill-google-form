@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Automatically fills and submits a specific Google Form 300 times with logical random data
 // @author       You
-// @match        https://docs.google.com/forms/d/e/1FAIpQLSeaftRoxUXTS9DQ802453-yXLyFucZDpxc5tiHYAtVcnB7V6w/viewform*
+// @match        https://docs.google.com/forms/d/e/*
 // @icon         https://www.google.com/images/branding/product/1x/forms_48dp.png
 // @grant        GM_setValue
 // @grant        GM_getValue
